@@ -1,0 +1,29 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:noodlebenji2960/me.git",
+  "author": "noodlebenji2960 <noodlebenji2960@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@vitejs/plugin-react": "^4.3.1",
+    "framer-motion": "^11.2.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.24.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "vite": "^5.3.3"
+  },
+  "type": "module"
+}
