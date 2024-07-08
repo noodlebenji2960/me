@@ -410,7 +410,7 @@ END:VCALENDAR
   height: ${e=>e.size}px;
   position: relative;
   transform-style: preserve-3d;
-  animation: rotate 60s infinite linear;
+  animation: rotate 120s infinite linear;
 
   @keyframes rotate {
     0% {
