@@ -10,14 +10,14 @@
         var l = window.location;
         l.replace(
             l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-            l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/page-not-found'
+            l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + 'not-found'
         );
     </script>
 </head>
 <body>
     <noscript>
-        <p>If you are not redirected, <a href="/page-not-found">click here</a>.</p>
+        <p>If you are not redirected, <a href="not-found">click here</a>.</p>
     </noscript>
-    <p>If you are not redirected automatically, <a href="/page-not-found">click here</a>.</p>
+    <p>If you are not redirected automatically, <a href="not-found">click here</a>.</p>
 </body>
 </html>
