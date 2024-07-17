@@ -29,10 +29,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://benjaminchick.com/frequently-asked-questions/:index/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://benjaminchick.com/report-issue</loc>
     <priority>0.7</priority>
   </url>
