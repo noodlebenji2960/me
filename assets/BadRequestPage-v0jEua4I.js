@@ -1,1 +1,0 @@
-import{j as e}from"./main-Crqhcu5o.js";const s=()=>e.jsxDEV(ErrorPage,{errorCode:"400",errorTitle:"errors.bad_request",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/BadRequestPage.tsx",lineNumber:3,columnNumber:7},void 0);export{s as default};
