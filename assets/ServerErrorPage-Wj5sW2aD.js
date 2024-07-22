@@ -1,1 +1,0 @@
-import{j as r}from"./main-CjcGBVR9.js";const o=()=>r.jsxDEV(ErrorPage,{errorCode:"500",errorTitle:"errors.server_error",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/ServerErrorPage.tsx",lineNumber:5,columnNumber:7},void 0);export{o as default};

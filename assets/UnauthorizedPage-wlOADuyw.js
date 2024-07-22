@@ -1,1 +1,0 @@
-import{j as r}from"./main-CjcGBVR9.js";const o=()=>r.jsxDEV(ErrorPage,{errorCode:"401",errorTitle:"errors.unauthorized",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/UnauthorizedPage.tsx",lineNumber:3,columnNumber:7},void 0);export{o as default};
