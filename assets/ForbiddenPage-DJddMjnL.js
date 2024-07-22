@@ -1,1 +1,0 @@
-import{j as r}from"./main-DqpSIu6l.js";const o=()=>r.jsxDEV(ErrorPage,{errorCode:"403",errorTitle:"errors.forbidden",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/ForbiddenPage.tsx",lineNumber:3,columnNumber:7},void 0);export{o as ForbiddenPage};
