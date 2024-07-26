@@ -1,0 +1,1 @@
+import{j as r}from"./main-oT4xNV1O.js";import{E as e}from"./ErrorPage-DjNjNiga.js";import"./chunk-FAWTVNS3-NQSbciRu.js";const m=()=>r.jsxDEV(e,{errorCode:"500",errorTitle:"errors.server_error",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/ServerErrorPage.tsx",lineNumber:7,columnNumber:7},void 0);export{m as default};

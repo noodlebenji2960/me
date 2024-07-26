@@ -1,0 +1,1 @@
+import{j as e}from"./main-oT4xNV1O.js";const i=()=>(useTranslation(),e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/PolicyPages/AccessibilityPolicyPage.tsx",lineNumber:3,columnNumber:10},void 0));export{i as default};
