@@ -1,0 +1,1 @@
+import{j as e}from"./main-CeSmQDeQ.js";const s=()=>(useTranslation(),e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/PolicyPages/CookiesPolicyPage.tsx",lineNumber:3,columnNumber:12},void 0));export{s as default};

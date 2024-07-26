@@ -1,1 +1,0 @@
-import{j as e}from"./main-Cap7sRhv.js";const a=()=>(useTranslation(),e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/PolicyPages/GDPRCompliancePolicyPage.tsx",lineNumber:4,columnNumber:12},void 0));export{a as default};
