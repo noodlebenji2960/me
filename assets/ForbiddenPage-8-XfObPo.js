@@ -1,0 +1,1 @@
+import{j as r}from"./main-BCeQnirD.js";import{E as e}from"./ErrorPage-SszzYC-Q.js";import"./chunk-FAWTVNS3-B5i8XJV_.js";const m=()=>r.jsxDEV(e,{errorCode:"403",errorTitle:"errors.forbidden",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/ForbiddenPage.tsx",lineNumber:6,columnNumber:7},void 0);export{m as ForbiddenPage};
