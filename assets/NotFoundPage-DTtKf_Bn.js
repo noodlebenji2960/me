@@ -1,1 +1,0 @@
-import{j as r}from"./main-CeSmQDeQ.js";import{E as e}from"./ErrorPage-B3UE2y4e.js";import"./chunk-FAWTVNS3-BP3XdIkc.js";const a=()=>r.jsxDEV(e,{errorCode:"404",errorTitle:"errors.not_found",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/NotFoundPage.tsx",lineNumber:6,columnNumber:7},void 0);export{a as default};
