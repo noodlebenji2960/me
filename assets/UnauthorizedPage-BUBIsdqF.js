@@ -1,0 +1,1 @@
+import{j as r}from"./main-Ci657oCK.js";import{E as e}from"./ErrorPage-z24supJf.js";import"./chunk-FAWTVNS3-BgtRrLiZ.js";const t=()=>r.jsxDEV(e,{errorCode:"401",errorTitle:"errors.unauthorized",errorMessage:"errors.contact_admin"},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/ErrorPages/UnauthorizedPage.tsx",lineNumber:6,columnNumber:7},void 0);export{t as default};
