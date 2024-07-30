@@ -1,1 +1,0 @@
-import{j as e}from"./main-d7RQYrvy.js";const n=()=>(useTranslation(),e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"/home/bjc/repos/me/src/pages/PolicyPages/TermsAndConditionsPage.tsx",lineNumber:5,columnNumber:12},void 0));export{n as TermsAndConditionsPage};

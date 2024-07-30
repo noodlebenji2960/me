@@ -1,0 +1,1 @@
+import{j as e}from"./main-BjWuY3kc.js";const r=()=>(useTranslation(),e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"/home/bjc/repos/me/client/src/pages/PolicyPages/CopyrightAndIntellectualPropertyPolicyPage.tsx",lineNumber:3,columnNumber:10},void 0));export{r as default};
